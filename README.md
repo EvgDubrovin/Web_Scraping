@@ -1,2 +1,2 @@
 # Web_Scraping
-Some web scraping scripts
+Here are some web scraping scripts and small projects.
